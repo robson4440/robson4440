@@ -1,12 +1,18 @@
-#sobre mim **robert**
-## *robson4440 the volei*
-- ola sou **@robson4440**
-- meu (email) (robert.porreti@escola.pr.gov.br)
-  -!()https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
-  -!()https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-  -!()https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-  -!()https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  -!()
-robson4440/robson4440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---comentarios --->
+#sobre mim **✨ROBERT✨**
+## robson4440 
+- :+1:**ola sou @robson4440**
+- :+1: O meu [email](robert.porreti@escola.pr.gov.br)
+- - 👀 eu esto interesado em aprendr novas linguagens
+- - eu estou recentimente aprendendo a programar na linguagem de java script e scratch
+- - 💞️ gosto muito de carros e eventosd
+ 
+      ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+     ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+      ![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+      ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+     ![](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+     ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+      ![](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+     
+
